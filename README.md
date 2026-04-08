@@ -1,4 +1,4 @@
-# 🚀 Backend + Cloud Development Roadmap
+# Backend + Cloud Development Roadmap
 
 ## De 0 a Desarrollador Backend Remoto desde República Dominicana
 
