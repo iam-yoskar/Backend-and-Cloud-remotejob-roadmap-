@@ -1,66 +1,90 @@
-# Backend + Cloud Development Roadmap
+# Backend + Cloud Journey
 
-## De 0 a Desarrollador Backend Remoto desde República Dominicana
-
-Bienvenido a la guía completa para convertirte en **Backend Developer + Cloud Engineer** y conseguir trabajo remoto ganando **$3,000-$15,000+ USD/mes**.
-
-### ¿Para quién es esta guía?
-
-+ ✅ Estudiantes universitarios en RD.
-+ ✅ Sin experiencia previa en programación.
-+ ✅ Quieren trabajo remoto.
-+ ✅ Dispuestos a aprender 1.5-2 horas diarias.
-+ ✅ Quieren ganar dinero mientras estudian
-
-### ¿Cuánto tiempo toma?
-
-- **12 meses**: Nivel Junior listo para trabajar
-- **18-24 meses**: Nivel Mid-level con experiencia real
-
-### ¿Cuánto puedo ganar?
-
-| Periodo | Nivel | Salario |
-|---------|-------|---------|
-| Mes 1-3 | Aprendiendo | $0 (estudio) |
-| Mes 4-6 | Freelance inicial | $200-500/mes |
-| Mes 7-9 | Junior Developer | $1,500-2,500/mes |
-| Mes 10-12 | Junior Profesional | $2,000-3,500/mes |
-| Año 2+ | Mid-level | $3,000-6,000+/mes |
-
-### Estructura de la guía
-
-1. **01 - Python Fundamentals** (Meses 1-3)
-2. **02 - SQL & Databases** (Meses 4-5)
-3. **03 - Django/FastAPI** (Meses 6-8)
-4. **04 - Docker & CI/CD** (Meses 9-10)
-5. **05 - Cloud Deployment** (Meses 9-10)
-6. **06 - Portfolio & Job Hunting** (Meses 11-12)
-
-### Cómo usar esta guía
-
-1. Lee cada módulo en orden
-2. Haz los ejercicios
-3. Completa los proyectos
-4. Marca tu progreso en el checklist
-5. Cuando termines un módulo, pasa al siguiente
-
-### Requisitos
-
-- ✅ Computadora (Mac, Windows, Linux)
-- ✅ Internet
-- ✅ 1.5-2 horas diarias
-- ✅ Disciplina y paciencia
-- ✅ Disposición a aprender
-
-### Bonificación: Inglés Técnico
-
-Mientras aprendes código, aprenderás inglés técnico de forma natural.
+## De 0 a Backend Developer + Cloud Engineer
 
 ---
 
-**¡Vamos! Tu primer paso es [ROADMAP.md](./ROADMAP.md)**
+## Sobre este repositorio
+
+Este repositorio documenta mi proceso de aprendizaje para convertirme en **Backend Developer + Cloud Engineer**, siguiendo un roadmap estructurado basado en habilidades reales de la industria.
+
+El enfoque no es solo teoría, sino **construcción de proyectos reales**, buenas prácticas y herramientas utilizadas en entornos profesionales.
 
 ---
 
-*Última actualización: Abril 2026*
-*Creador: iam-yoskar*
+## Objetivo
+
+Desarrollar la capacidad de:
+
+- Construir APIs backend profesionales
+- Diseñar sistemas escalables
+- Trabajar con bases de datos SQL y NoSQL
+- Desplegar aplicaciones en la nube (Cloud)
+- Utilizar herramientas reales de desarrollo (Docker, Git, etc.)
+
+---
+
+## Enfoque de aprendizaje
+
+- Aprendizaje progresivo desde cero  
+- Enfoque práctico (learning by doing)  
+- Aplicación de buenas prácticas desde el inicio  
+- Construcción de proyectos en cada etapa  
+
+> ⚠️ Este repositorio refleja un proceso en progreso, no un resultado final.
+
+---
+
+## Tecnologías (en progreso)
+
+- Python
+- Flask / Django
+- PostgreSQL
+- Docker
+- AWS (Cloud)
+- Git & GitHub
+
+---
+
+## Estructura del repositorio
+
+Cada carpeta representa una fase del roadmap con ejercicios y proyectos.
+
+---
+
+## Progreso
+
+- [ ] Fundamentos de Python  
+- [ ] Programación Profesional  
+- [ ] Fundamentos Web  
+- [ ] Backend con Framework  
+- [ ] Arquitectura Profesional  
+- [ ] Bases de Datos  
+- [ ] Seguridad  
+- [ ] Testing  
+- [ ] Git y trabajo en equipo  
+- [ ] Linux  
+- [ ] Docker  
+- [ ] Cloud  
+- [ ] CI/CD  
+- [ ] Sistemas avanzados  
+- [ ] Observabilidad  
+- [ ] Proyecto final  
+
+---
+
+## Nota final
+
+Este repositorio no busca mostrar perfección, sino **progreso real y constante**.
+
+---
+
+## Ver Roadmap Completo
+
+👉 [ROADMAP.md](./ROADMAP.md)
+
+---
+
+## Autor
+
+**iam-yoskar**
