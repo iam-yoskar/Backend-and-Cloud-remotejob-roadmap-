@@ -6,11 +6,11 @@ Bienvenido a la guía completa para convertirte en **Backend Developer + Cloud E
 
 ### ¿Para quién es esta guía?
 
-- ✅ Estudiantes universitarios en RD.
-- ✅ Sin experiencia previa en programación.
-- ✅ Quieren trabajo remoto.
-- ✅ Dispuestos a aprender 1.5-2 horas diarias.
-- ✅ Quieren ganar dinero mientras estudian
++ - ✅ Estudiantes universitarios en RD.
++ - ✅ Sin experiencia previa en programación.
++ - ✅ Quieren trabajo remoto.
++ - ✅ Dispuestos a aprender 1.5-2 horas diarias.
++ - ✅ Quieren ganar dinero mientras estudian
 
 ### ¿Cuánto tiempo toma?
 
