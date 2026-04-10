@@ -11,6 +11,7 @@ En general, logré una base sólida sobre cómo funcionan las variables en Pytho
 
 ## Ejemplo trabajado
 nombre = "Yoskar"
+
 edad = 21
 
 print(f"Hola, me llamo {nombre}")
